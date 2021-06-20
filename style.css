@@ -1,0 +1,56 @@
+/*
+Made by Nishant Rawat
+Class IX'th
+*/
+
+.heading {
+    border-top:10px solid #e1f7c1;
+    border-bottom:10px solid #e1f7c1;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size:9vh;
+    letter-spacing:3px;
+    text-align:center;
+    text-decoration:5px solid red underline;
+}
+
+.name {
+    padding-top:0px;
+    font-family: 'Barlow', sans-serif;
+    text-align:center;
+    font-size:7vh;
+}
+
+.date {
+    font-family: 'Barlow', sans-serif;
+    text-align:center;
+    font-size:5vh;
+    border-bottom:10px solid #e1f7c1;
+    padding-bottom:40px;
+}
+
+.quote {
+    font-family: 'Barlow', sans-serif;
+    text-align:center;
+    font-size:3vh;
+    font-weight:bolder;
+}
+
+.image {
+    text-align:center;
+}
+
+p {
+    font-family: 'Josefin Slab', serif;
+    text-align:center;
+    font-size:5vh;
+    color:red;
+    padding-bottom:33px;
+    border-bottom:10px solid black;
+    line-height: 100px;
+    text-decoration:3px solid blueviolet underline;
+}
+
+
